@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "title1",
+      "img": "https://images.pexels.com/photos/4273156/pexels-photo-4273156.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "desc": "description1"
+    },
+    {
+      "id": 2,
+      "title": "title2",
+      "img": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "desc": "description2"
+    },
+    {
+      "id": 3,
+      "title": "title3",
+      "img": "https://images.pexels.com/photos/3726277/pexels-photo-3726277.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+      "desc": "description3"
+    }
+  ]
+}
