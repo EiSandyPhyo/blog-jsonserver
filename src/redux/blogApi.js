@@ -3,7 +3,7 @@ import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 // Define a service using a base URL and expected endpoints
 export const blogApi = createApi({
   reducerPath: "blogApi",
-  baseQuery: fetchBaseQuery({ baseUrl: `http://localhost:3000` }),
+  baseQuery: fetchBaseQuery({ baseUrl: `https://test-api-fm46.onrender.com` }), /* http://localhost:3000 */
   tagTypes: ["blog"], //auto refresh
 
   endpoints: (builder) => ({
